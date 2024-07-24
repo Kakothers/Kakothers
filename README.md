@@ -7,6 +7,5 @@
 - ⚡ Fun fact: I am invisible, I was born visible, however later on I turned trans... parent.
 
 <!---
-Kakothers/Kakothers is a name special to me. repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Kakothers/Kakothers is a name special to me. (personal reasons)
 --->
